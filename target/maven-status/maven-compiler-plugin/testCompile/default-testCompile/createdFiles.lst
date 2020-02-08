@@ -1,0 +1,5 @@
+com/mobiquityinc/repository/PackagingRepositoryTest.class
+com/mobiquityinc/base/BaseTest.class
+com/mobiquityinc/validator/PackagingValidatorTest.class
+com/mobiquityinc/packer/PackerTest.class
+com/mobiquityinc/service/PackagingServiceTest.class
